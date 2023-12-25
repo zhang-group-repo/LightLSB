@@ -1,0 +1,1 @@
+# Non-Extended Visual Cryptography
