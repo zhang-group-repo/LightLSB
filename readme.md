@@ -13,6 +13,12 @@ This paper presents a lightweight and high-precision identification framework ca
 
 ## Submodules
 - CAM
+  Comparison of heatmaps for decrypted images between ResNet50 and Ours Model(EfficientNet_b3).
 - IQA
+  Image Quality Assessment of the decrypted image of FVC2000 dataset through SADCNN and our inverse halftoning scheme with the original image.
 - VCS
+   Implementation of different Visual Cryptography schemes.
 - models
+  Performance of different models trained by LFW dataset.
+## InvHT
+`InvHT_Bilateral_Filters.py` is the implementation of ours decryption improvement scheme.
