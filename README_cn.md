@@ -1,3 +1,5 @@
+# 不同backbone vs 可视密码解密算法 识别性能实验记录
+
 ### efficientnet_b3
 
 | efficientnet_b3 | 原图  | 半色调 | 半色调-MTCNN | 无意义加解密图片 | 有意义加解密图片 |
@@ -224,4 +226,10 @@
 |      召回率       |   0.490    |                 0.812                  |
 |      F1分数       |   0.640    |                 0.831                  |
 
+
+# 解密数据集
+
+所有可视密码解密数据集位于[百度网盘](https://pan.baidu.com/s/1hbiIb5wUoNXmQ8ds6yNbIA)：
+
+<img width="1564" alt="image" src="https://github.com/zhang-group-repo/LightLSB/assets/4847075/df635054-ed12-44ce-8a84-5156f51bae59">
 
